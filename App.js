@@ -3,9 +3,9 @@ import HelloWorld from "./learning/HelloWorld";
 
 const App = () => {
   return (
-    <div>
+    <>
       <HelloWorld />
-    </div>
+    </>
   );
 };
 

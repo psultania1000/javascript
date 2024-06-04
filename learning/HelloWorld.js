@@ -1,12 +1,11 @@
 import React from "react";
-import Hello from "./Hello";
 
 const HelloWorld = () => {
   //   console.log("Hello World!");
   return (
-    <p>
-      <Hello />
-    </p>
+    <>
+      <h1>Hello, World! </h1>
+    </>
   );
 };
 
