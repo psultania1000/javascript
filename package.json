@@ -1,0 +1,14 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "concepts and problem solving with js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "priyansh sultania",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
